@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+ <formatVersion>7</formatVersion>
+
+    <view name="menu">
+
+        <menuText name="menutitle">
+            <fontPath>./_plus/fontes/ubuntu_bold.ttf</fontPath>
+            <fontSize>0.038</fontSize>
+            <color>FFFFFF</color>
+        </menuText>
+
+        <menuText name="menufooter">
+            <fontPath>./_plus/fontes/ubuntu_medium.ttf</fontPath>
+            <fontSize>0.020</fontSize>
+            <color>AAAAAA</color>
+        </menuText>
+
+        <menuText name="menutext">
+            <fontPath>./_plus/fontes/ubuntu_medium.ttf</fontPath>
+            <fontSize>0.036</fontSize>
+            <color>EEEEEE</color>
+            <separatorColor>FEFEFE</separatorColor>
+            <selectorColor>ff9900</selectorColor>
+            <selectorColorEnd>DD7700</selectorColorEnd>
+            <selectedColor>262626</selectedColor>
+            <selectorGradientType>vertical</selectorGradientType>
+        </menuText>
+
+        <menuTextSmall name="menutextsmall">
+            <fontPath>./_plus/fontes/ubuntu_medium.ttf</fontPath>
+            <fontSize>0.032</fontSize>
+        </menuTextSmall>
+
+        <menuBackground name="menubg">
+            <color>0764A1</color>
+            <cornerSize>32 32</cornerSize>
+            <path>._plus/menu/frame.png</path>
+        </menuBackground>
+
+        <menuIcons name="menuicons">
+            <iconKodi>./_plus/icons/Kodi.png</iconKodi>
+            <iconSystem>./_plus/icons/System.png</iconSystem>
+            <iconUpdates>./_plus/icons/Updates.png</iconUpdates>
+            <iconGames>./_plus/icons/Games.png</iconGames>
+            <iconControllers>./_plus/icons/Controllers.png</iconControllers>
+            <iconUI>./_plus/icons/UI.png</iconUI>
+            <iconSound>./_plus/icons/Sound.png</iconSound>
+            <iconNetwork>./_plus/icons/Network.png</iconNetwork>
+            <iconScraper>./_plus/icons/Scraper.png</iconScraper>
+            <iconAdvanced>./_plus/icons/Advanced.png</iconAdvanced>
+            <iconQuit>./_plus/icons/Quit.png</iconQuit>
+            <iconRestart>./_plus/icons/Restart.png</iconRestart>
+            <iconShutdown>./_plus/icons/Shutdown.png</iconShutdown>
+            <iconFastShutdown>./_plus/icons/Fastshutdown.png</iconFastShutdown>
+            <iconRetroachievements>./_plus/icons/Contest.png</iconRetroachievements>
+        </menuIcons>
+
+        <menuTextEdit name="menutextedit">
+            <inactive>._plus/menu/textinput_ninepatch.png</inactive>
+            <active>._plus/menu/textinput_ninepatch_active.png</active>
+        </menuTextEdit>
+        
+    </view>
+
+</theme>

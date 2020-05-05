@@ -1,0 +1,71 @@
+<!--
+    Theme name:  batocera-plus-wonderful (Batocera PLUS)
+    Version:     1.0
+    Artwork by:  Wesley Costa (TheBossBR) 
+    Coding by:   Wesley Costa (TheBossBR) 
+    Website:     https://bit.ly/BatoceraPLUS
+    Fonts used:  Acre Medium & Bebas Neue Bold
+
+    # Thanks and Credits
+    Some controllers and graphics used in this theme are created by great artists who kindly agreed to include their art within the theme.
+
+    # License
+    This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. Please see README.md for full details.
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+ <formatVersion>7</formatVersion>
+
+<include>./_plus/menu.xml</include>
+
+    <view name="system">
+        <image name="BatoceraPLUS-Background" extra="true">
+            <path>./_plus/background/BPLUS.svg</path>
+            <tile>false</tile> 
+            <size>1 1</size>
+            <pos>0.5 0.5</pos>
+            <origin>0.5 0.5</origin>
+            <!-- <color>0ed2cc52</color> -->
+        </image>
+
+       <image name="poster" extra="true">
+            <path>./_plus/posters/${system.theme}.jpg</path>
+            <path>./_plus/posters/${system.theme}.png</path>
+            <tile>false</tile>
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 1</size>
+        </image>
+
+        <image name="BatoceraPLUS-Background2" extra="true">
+            <path>./_plus/background/BPLUS2.svg</path>
+            <tile>false</tile> 
+            <size>1 1</size>
+            <pos>0.5 0.5</pos>
+            <origin>0.5 0.5</origin>
+        </image>
+
+
+        <image name="logo">
+            <path>./_plus/artsystem/${system.theme}.svg</path>
+            <path>./_plus/artsystem/${system.theme}.png</path>
+        </image>
+    
+    
+        <carousel name="systemcarousel">
+            <type>horizontal_wheel</type>
+            <color>0000000000</color> <!-- <color>0ed2cc52</color> -->
+            <origin>0.5 .5</origin>
+            <pos>0.500 0.130</pos>
+            <size>1 1.5</size>
+            <logoRotationOrigin>0 10</logoRotationOrigin>
+            <logoRotation>15</logoRotation>
+            <logoAlignment>center</logoAlignment>
+            <logoScale>1.4</logoScale> <!-- O logo selecionado é aumentado em tamanho por esta escala-->
+            <logoSize>0.278 0.219</logoSize>
+            <maxLogoCount>7</maxLogoCount>
+        </carousel>
+    </view>
+
+</theme>

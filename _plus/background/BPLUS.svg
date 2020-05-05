@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="auto"
+   viewBox="0 0 508.00001 285.74999"
+   preserveAspectRatio="xMidYMid slice"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="Background Batocera PLUS.svg">
+  <title
+     id="title815">Background Batocera PLUS</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1652">
+      <stop
+         style="stop-color:#e38234;stop-opacity:1;"
+         offset="0"
+         id="stop1648" />
+      <stop
+         style="stop-color:#e38234;stop-opacity:0;"
+         offset="1"
+         id="stop1650" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4086">
+      <stop
+         style="stop-color:#023144;stop-opacity:1;"
+         offset="0"
+         id="stop4082" />
+      <stop
+         style="stop-color:#023144;stop-opacity:0;"
+         offset="1"
+         id="stop4084" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="EmptyDiamondLend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="EmptyDiamondLend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2638"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;fill:#023144;stroke:#81f2ff;stroke-width:1pt;stroke-opacity:1;fill-opacity:1"
+         transform="scale(0.8) translate(-7,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3184"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3182"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#81f2ff;stroke-width:1pt;stroke-opacity:1;fill:#023144;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker3048"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3046"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#81f2ff;stroke-width:1pt;stroke-opacity:1;fill:#023144;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2575"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#e38234;stroke-width:1pt;stroke-opacity:1;fill:#023144;fill-opacity:1"
+         transform="scale(0.8) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2523"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#81f2ff;stroke-width:1pt;stroke-opacity:1;fill:#023144;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2514"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#e38234;stroke-width:1pt;stroke-opacity:1;fill:#023144;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient2489"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#81f2ff;stop-opacity:1;"
+         offset="0"
+         id="stop2487" />
+    </linearGradient>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="193.98204 : 231.12148 : 1"
+       inkscape:vp_y="2.5942454e-14 : 584.22624 : 0"
+       inkscape:vp_z="334.46886 : 36.262321 : 1"
+       inkscape:persp3d-origin="239.41866 : 239.24957 : 1"
+       id="perspective835" />
+    <radialGradient
+       fx="-2.2974583e-10"
+       fy="0.19847275"
+       cx="-2.2974583e-10"
+       cy="0.19847275"
+       r="1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(518.81,0,0,218.06092,254.35999,143.89049)"
+       spreadMethod="pad"
+       id="radialGradient50">
+      <stop
+         style="stop-opacity:1;stop-color:#0fafb2"
+         offset="0"
+         id="stop40" />
+      <stop
+         style="stop-opacity:1;stop-color:#002935"
+         offset="0.514217"
+         id="stop42" />
+      <stop
+         style="stop-opacity:1;stop-color:#002935"
+         offset="0.83273137"
+         id="stop44" />
+      <stop
+         style="stop-opacity:1;stop-color:#002935"
+         offset="0.93309253"
+         id="stop46" />
+      <stop
+         style="stop-opacity:1;stop-color:#002935"
+         offset="1"
+         id="stop48" />
+    </radialGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4086"
+       id="radialGradient4158"
+       cx="254.59497"
+       cy="46.653458"
+       fx="254.59497"
+       fy="46.653458"
+       r="275.25305"
+       gradientTransform="matrix(0.99988294,0,0,0.36934632,0.02980398,30.051417)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1652"
+       id="radialGradient1654"
+       cx="254.59497"
+       cy="71.819771"
+       fx="254.59497"
+       fy="71.819771"
+       r="275.25304"
+       gradientTransform="matrix(1.2219266,0,0,0.40898586,-56.501385,43.817865)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7359375"
+     inkscape:cx="960"
+     inkscape:cy="540"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Background Batocera PLUS</dc:title>
+        <dc:date>05/05/2020</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>By Wesley Costa (TheBossBR)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>pt-br</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background Batocera PLUS"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.35951826,-11.609523)">
+    <path
+       d="M 0.36004939,297.35953 H 508.36005 V 11.609519 H 0.36004939 Z"
+       style="display:inline;fill:url(#radialGradient50);stroke:none;stroke-width:0.76199996"
+       id="path-Background"
+       inkscape:connector-curvature="0"
+       inkscape:label="Background" />
+    <path
+       style="fill:url(#radialGradient4158);fill-opacity:1;stroke:url(#radialGradient1654);stroke-width:4.17746973;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 0.06112157,135.11052 C 252.60783,15.913717 510.9353,134.73919 510.9353,134.73919 V 11.693713 H -1.7453642 V 135.11052 Z"
+       id="path849"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+</svg>
